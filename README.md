@@ -10,7 +10,7 @@ Dans *The Echoes of Truths*, vous incarnez **Konan**, un détective privé charg
 Le jeu propose une expérience immersive inspirée des jeux narratifs. Vos choix dans les dialogues, vos méthodes d'investigation et votre utilisation du **fact-checking** détermineront le succès de votre enquête. À chaque étape, vous devrez naviguer à travers des témoignages contradictoires, découvrir des mensonges et autres formes de manipulation.
 
 Saurez-vous percer les mystères derrière *The Echoes of Truths* et découvrir la véritable histoire de Pauline Geanne ?
-s
+
 
 ## Pourquoi ce projet ?
 
@@ -30,8 +30,8 @@ L'information joue un rôle clé dans notre société numérique, mais elle est 
 
 ## Contributeurs
 
-- **Gabriel Teixeira Dias** – Étudiant en Informatique à l'EPFL en première
-- **Akim Berreqia** – Étudiant en Informatique à l'EPFL en première
+- **Gabriel Teixeira Dias** – Étudiant en Informatique à l'EPFL en première année de Bachelor
+- **Akim Berreqia** – Étudiant en Informatique à l'EPFL en première année de Bachelor
 
 ## Remerciements
 
